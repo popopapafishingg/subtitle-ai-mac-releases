@@ -5,11 +5,11 @@
     <language>ja</language>
     <item>
       <title>0.1.0-mac.20261015c-test (TEST)</title>
-      <description><![CDATA[<p>TEST build for auto-update verification (variant: badsig). 更新内容: アップデート機能の検証用テスト版です。</p>]]></description>
+      <description><![CDATA[<p>TEST build for auto-update verification (variant: truncated). 更新内容: アップデート機能の検証用テスト版です。</p>]]></description>
       <pubDate>Fri, 16 Oct 2026 13:00:00 +0900</pubDate>
       <sparkle:version>2026101512</sparkle:version>
       <sparkle:shortVersionString>0.1.0-mac.20261015c-test</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/popopapafishingg/subtitle-ai-mac-releases/releases/download/autoupdate-test-20261015c/SubtitleAI-Mac-arm64-0.1.0-mac.20261015c-test-update.zip" length="1501030710" type="application/octet-stream" sparkle:edSignature="AAAAtm4+KzdlfSef2CVhvAysz11zgCIAHHFsJc1Uo4cTqrHZJURWobeOtoMUBakW4Gqwf0MwDVCg+ttdtF1KDw=="/>
+      <enclosure url="https://github.com/popopapafishingg/subtitle-ai-mac-releases/releases/download/autoupdate-test-20261015c/truncated-update.zip" length="1501030710" type="application/octet-stream" sparkle:edSignature="yMpItm4+KzdlfSef2CVhvAysz11zgCIAHHFsJc1Uo4cTqrHZJURWobeOtoMUBakW4Gqwf0MwDVCg+ttdtF1KDw=="/>
     </item>  </channel>
 </rss>
