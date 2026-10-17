@@ -1,7 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Subtitle AI (monitor)</title>
     <language>ja</language>
+    <item>
+      <title>Subtitle AI 0.1.0-mac.20261017a</title>
+      <pubDate>Sat, 17 Oct 2026 02:00:00 +0000</pubDate>
+      <sparkle:version>2026101701</sparkle:version>
+      <sparkle:shortVersionString>0.1.0-mac.20261017a</sparkle:shortVersionString>
+      <description><![CDATA[<ul><li>動画読み込み処理を高速化</li><li>文字起こし開始時の不要な大容量ファイル読み込みを削減</li><li>対応動画では書き出し時の音声再圧縮を回避</li><li>音声品質を維持</li><li>更新通知からアップデート可能</li></ul>]]></description>
+      <enclosure url="https://github.com/popopapafishingg/subtitle-ai-mac-releases/releases/download/mac-0.1.0-20261017a/SubtitleAI-Mac-arm64-0.1.0-20261017a-update.zip" length="1501045667" type="application/octet-stream" sparkle:edSignature="bieDsV49nr9t9noGh/WsZSniAk/zI1pe4PJUX+ie6b53PNkXMLDlTxVAd3XsLh7+ur9CuVwbuVRQE+olJOsPDg==" />
+    </item>
   </channel>
 </rss>
