@@ -4,6 +4,14 @@
     <title>Subtitle AI (monitor)</title>
     <language>ja</language>
     <item>
+      <title>Subtitle AI 0.1.0-mac.20261025a</title>
+      <pubDate>Sun, 25 Oct 2026 09:26:24 +0000</pubDate>
+      <sparkle:version>2026102501</sparkle:version>
+      <sparkle:shortVersionString>0.1.0-mac.20261025a</sparkle:shortVersionString>
+      <description><![CDATA[<ul><li>字幕を修正した内容を学習候補として自動保存</li><li>元の文字起こし結果を保持したまま修正内容を学習</li><li>「学習候補」画面を追加</li><li>候補の承認／却下／競合確認に対応</li><li>承認した修正を今後の文字起こしへ反映</li><li>既存の個人辞書、初期学習、取り込み辞書との優先順位を維持</li><li>更新通知からアップデート可能</li></ul>]]></description>
+      <enclosure url="https://github.com/popopapafishingg/subtitle-ai-mac-releases/releases/download/mac-0.1.0-20261025a/SubtitleAI-Mac-arm64-0.1.0-20261025a-update.zip" length="1501178237" type="application/octet-stream" sparkle:edSignature="4Z7lkAvmddTfh/uZHueOKcb61m+Dr7CNbOtXxaVl28N1BypoFluHaO1j+Nt55X33F4hZCjKUEuoT36I5wkITDA==" />
+    </item>
+    <item>
       <title>Subtitle AI 0.1.0-mac.20261023a</title>
       <pubDate>Fri, 23 Oct 2026 07:30:00 +0000</pubDate>
       <sparkle:version>2026102301</sparkle:version>
