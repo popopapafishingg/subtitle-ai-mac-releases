@@ -1,6 +1,6 @@
 ﻿{
   "product": "STUDIO_V4",
-  "generation": 400580,
-  "updated": "2026-11-25T12:50:00+09:00",
-  "notes": "Signed SV4C1 catalog for code-only activation. No private keys. Includes MONITOR_TRUSTED_1 + CODE_ONLY_QA_HA23."
+  "generation": 400581,
+  "updated": "2026-11-25T13:15:00+09:00",
+  "notes": "Monitor 821526240330 + HA23 QA 046366894629. Code-only HTTPS catalog."
 }
